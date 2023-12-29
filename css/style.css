@@ -146,6 +146,18 @@ section{
     color: var(--text-color);
     font-size: 15px;
     font-weight: 600;
-    transition: all .50s esse;
+    transition: all .50s ease;
     cursor: pointer;
+    border: 2px solid transparent;
+}
+
+.btn:hover{
+    border: 2px solid var(--text-color);
+    background: transparent;
+    color: var(--text-color);
+    transition: all .50s ease;
+}
+
+.btn:active{
+    transform: translateY(2px);
 }
