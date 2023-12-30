@@ -334,7 +334,19 @@ header.sticky{
     transition: all .50s ease;
 }
 
+.footerbox p{
+    color: #979797;
+    margin-bottom: 0.8rem;
+    transition: all .50s ease;
+}
+
+
 .footerbox a:hover{
+    transform: scale(1.02);
+    color: var(--text-color);
+}
+
+.footerbox p:hover{
     transform: scale(1.02);
     color: var(--text-color);
 }
