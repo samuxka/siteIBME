@@ -261,6 +261,10 @@ header.sticky{
     cursor: pointer;
 }
 
+.box:hover{
+    color: transparent;
+}
+
 .centerbtn{
     text-align: center;
     margin-top: 4rem;
