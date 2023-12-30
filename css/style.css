@@ -242,16 +242,16 @@ header.sticky{
 .box h6{
     position: absolute;
     left: 25px;
-    bottom: 95px;
-    font-size: 18px;
+    bottom: 65px;
+    font-size: 10px;
     font-weight: 500;
 }
 
 .box h4{
     position: absolute;
     left: 25px;
-    bottom: 40px;
-    font-size: 20px;
+    bottom: 20px;
+    font-size: 15px;
     font-weight: 700;
 }
 
