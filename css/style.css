@@ -379,6 +379,10 @@ header.sticky{
     font-size: 15px;
 }
 
+.copyright a{
+    color: #ff101c;
+}
+
 /* Estilos para a imagem ampliada */
 .imagem-ampliada {
     position: fixed;
